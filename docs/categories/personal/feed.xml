@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Ruben Ramos blog</title>
+    <link>https://rubenrm.com/categories/personal/</link>
+    <description>Recent content in Personal on Ruben Ramos blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Copyright &amp;copy; 2021 - Ruben Ramos</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 08:45:48 +0100</lastBuildDate><atom:link href="https://rubenrm.com/categories/personal/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción al desarrollo para Microsoft Teams</title>
+      <link>https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/</link>
+      <pubDate>Mon, 07 Jan 2019 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/</guid>
+      <description>Para extender Teams debemos crear una app de Teams. Una sola app puede proporcionar una o más funcionalidades dependiendo de nuestras necesidades.
+Las apps de Microsoft Teams son aplicaciones web, puedes usar cualquier tecnología de programación web y puedes alojarlas en cualquier plataforma de alojamiento.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenidos</title>
+      <link>https://rubenrm.com/2017/bienvenidos/</link>
+      <pubDate>Wed, 29 Mar 2017 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2017/bienvenidos/</guid>
+      <description>Bienvenidos a mi blog sobre desarrollo en entornos Microsoft donde trataré de compartir mi experiencia desarrollando sobre .NET.
+Después de aprender muchísimo de las experiencias de otras personas de la comunidad he decidido aportar mi granito de arena.</description>
+    </item>
+    
+  </channel>
+</rss>

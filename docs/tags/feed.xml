@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ruben Ramos blog</title>
+    <link>https://rubenrm.com/tags/</link>
+    <description>Recent content in Tags on Ruben Ramos blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Copyright &amp;copy; 2021 - Ruben Ramos</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 08:45:48 +0100</lastBuildDate><atom:link href="https://rubenrm.com/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://rubenrm.com/tags/personal/</link>
+      <pubDate>Mon, 07 Jan 2019 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eventos</title>
+      <link>https://rubenrm.com/tags/eventos/</link>
+      <pubDate>Sun, 05 Nov 2017 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/tags/eventos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scene</title>
+      <link>https://rubenrm.com/tags/scene/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://rubenrm.com/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

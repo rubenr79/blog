@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ruben Ramos blog</title>
+    <link>https://rubenrm.com/posts/</link>
+    <description>Recent content in Posts on Ruben Ramos blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Copyright &amp;copy; 2021 - Ruben Ramos</copyright>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rubenrm.com/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como Crear Un Boton Para Compartir Con Teams Sin Javascript</title>
+      <link>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/</guid>
+      <description>En el post anterior vimos como podemos crear un botón para compartir una url con Teams, para hacer esto se cargaba un fichero js que era el encargado de generar el enlace para compartir con Teams.</description>
+    </item>
+    
+    <item>
+      <title>Introducción al desarrollo para Microsoft Teams</title>
+      <link>https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/</link>
+      <pubDate>Mon, 07 Jan 2019 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/</guid>
+      <description>Para extender Teams debemos crear una app de Teams. Una sola app puede proporcionar una o más funcionalidades dependiendo de nuestras necesidades.
+Las apps de Microsoft Teams son aplicaciones web, puedes usar cualquier tecnología de programación web y puedes alojarlas en cualquier plataforma de alojamiento.</description>
+    </item>
+    
+    <item>
+      <title>Global Office 365 Developer Bootcamp 2017</title>
+      <link>https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/</link>
+      <pubDate>Sun, 05 Nov 2017 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/</guid>
+      <description>El 4 de noviembre se celebró en Madrid el Global Office 365 Developer Bootcamp, en el que tuve la gran suerte de participar como speaker. Este evento es una iniciativa a nivel global de Microsoft y el equipo de Office 365 y apoyado por las comunidades técnicas y MVPs.</description>
+    </item>
+    
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>https://rubenrm.com/2017/chapter-i-the-grand-hall/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://rubenrm.com/2017/chapter-i-the-grand-hall/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenidos</title>
+      <link>https://rubenrm.com/2017/bienvenidos/</link>
+      <pubDate>Wed, 29 Mar 2017 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2017/bienvenidos/</guid>
+      <description>Bienvenidos a mi blog sobre desarrollo en entornos Microsoft donde trataré de compartir mi experiencia desarrollando sobre .NET.
+Después de aprender muchísimo de las experiencias de otras personas de la comunidad he decidido aportar mi granito de arena.</description>
+    </item>
+    
+  </channel>
+</rss>

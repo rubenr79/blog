@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Ruben Ramos blog</title>
+    <link>https://rubenrm.com/categories/eventos/</link>
+    <description>Recent content in Eventos on Ruben Ramos blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Copyright &amp;copy; 2021 - Ruben Ramos</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 08:45:48 +0100</lastBuildDate><atom:link href="https://rubenrm.com/categories/eventos/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Office 365 Developer Bootcamp 2017</title>
+      <link>https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/</link>
+      <pubDate>Sun, 05 Nov 2017 08:45:48 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/</guid>
+      <description>El 4 de noviembre se celebró en Madrid el Global Office 365 Developer Bootcamp, en el que tuve la gran suerte de participar como speaker. Este evento es una iniciativa a nivel global de Microsoft y el equipo de Office 365 y apoyado por las comunidades técnicas y MVPs.</description>
+    </item>
+    
+  </channel>
+</rss>
