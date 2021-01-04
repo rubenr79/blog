@@ -1,8 +1,10 @@
 ---
+author: Ruben Ramos
 title: "{{ replace .Name "-" " " | title }}"
 description: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-disableComments: true
+categories:
+- 
+tags: []
 draft: true
 ---
-

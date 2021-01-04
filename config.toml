@@ -1,5 +1,54 @@
-baseURL = "https://rubenr79.github.io/blog/"
+baseURL = "https://rubenrm.com/"
 languageCode = "es-es"
-title = "My New Hugo Site"
+title = "Ruben Ramos blog"
 theme = "ananke"
 publishDir = "docs"
+copyright = "Copyright &copy; 2021 - Ruben Ramos"
+
+DefaultContentLanguage = "en"
+canonifyurls = true
+
+paginate = 10
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[permalinks]
+  posts = "/:year/:title/"
+
+[author]
+    name = "Ruben Ramos"
+    github = "rubenr79"
+    linkedin = "rubenramosmateo"
+    twitter = "rubenr79"
+
+[params]
+    tagline = "Desarrollo sobre tecnología Microsoft, en especial Office 365 y Azure"
+    description = "Desarrollo sobre tecnología Microsoft, en especial Office 365 y Azure"
+    ogimage = "/assets/img/about_me.jpg"
+    commentAutoload = true
+
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"
+
+[[menu.main]]
+    name = "Eventos"
+    weight = 30
+    url = "/events"
+
+[[menu.main]]
+    name = "Categorias"
+    weight = 40
+    url = "/categories/"
+[[menu.main]]
+    name = "Sobre mi"
+    weight = 50
+    url = "/about"
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
