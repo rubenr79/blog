@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Lo reconozco, en Teams, soy más partidario de utilizar OneNote que de utilizar wikis. Con este script vamos a poder eliminar todas las pestañas wiki, que no tengan contenido de todo Teams.

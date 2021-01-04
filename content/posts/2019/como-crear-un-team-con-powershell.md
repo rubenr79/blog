@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Hay varias formas de crear Teams, en este post vamos a ver como crear un Team desde Powershell. Para ello vamos a utilizar el módulo Powershell para Teams, si no lo tienes instalado puedes hacerlo ejecutando

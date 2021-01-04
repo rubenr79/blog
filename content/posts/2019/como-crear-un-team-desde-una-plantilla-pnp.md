@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Desde la versión 2019-03 del esquema de aprovisionamiento de PnP es posible la creación de Teams.

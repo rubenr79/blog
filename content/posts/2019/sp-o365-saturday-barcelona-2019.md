@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 El pasado 14 de Septiembre tuve la suerte de poder participar en el SP & O365 Saturday Barcelona. Un gran evento organizado por SUG.CAT.

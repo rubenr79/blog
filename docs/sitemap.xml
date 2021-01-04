@@ -14,12 +14,97 @@
   
   <url>
     <loc>https://rubenrm.com/</loc>
-    <lastmod>2019-07-05T00:00:00+01:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/</loc>
+    <lastmod>2019-09-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/</loc>
+    <lastmod>2019-08-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/</loc>
+    <lastmod>2019-08-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/powershell-eliminar-todas-las-pestanas-wiki-vacias/</loc>
+    <lastmod>2019-07-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/powershell-obtener-un-inventario-de-teams-canales-y-pestanas/</loc>
+    <lastmod>2019-07-12T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-trabajar-con-graph-api-desde-powershell/</loc>
+    <lastmod>2019-07-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-crear-un-marcador-en-chromium-para-compartir-una-url-con-teams/</loc>
+    <lastmod>2019-07-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/</loc>
     <lastmod>2019-07-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams/</loc>
+    <lastmod>2019-07-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/sharepoint-saturday-madrid-2019/</loc>
+    <lastmod>2019-06-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/comparando-powershell-y-graph-para-administrar-teams/</loc>
+    <lastmod>2019-06-04T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-crear-un-team-desde-una-plantilla-pnp/</loc>
+    <lastmod>2019-06-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-crear-un-team-con-microsoft-graph/</loc>
+    <lastmod>2019-06-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/como-crear-un-team-con-powershell/</loc>
+    <lastmod>2019-06-02T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/creando-tabs-para-teams-con-spfx/</loc>
+    <lastmod>2019-05-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/creando-la-primera-tab-para-teams-con-node-js-en-visual-studio-code/</loc>
+    <lastmod>2019-04-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/exponiendo-tu-localhost-a-internet-con-ngrok/</loc>
+    <lastmod>2019-02-07T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rubenrm.com/2019/un-vistazo-al-teams-app-package/</loc>
+    <lastmod>2019-01-09T00:00:00+01:00</lastmod>
   </url>
   
   <url>

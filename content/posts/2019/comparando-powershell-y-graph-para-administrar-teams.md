@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Con el módulo de Teams para Powershell es bastante sencillo realizar operaciones de administración sobre Teams, pero por ahora, este número de operaciones es bastante limitada.

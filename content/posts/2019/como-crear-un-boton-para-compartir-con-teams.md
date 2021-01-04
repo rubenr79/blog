@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Recientemente Microsoft ha publicado la nueva funcionalidad Share to Teams, con la que fácilmente podemos añadir un enlace a nuestra página web para compartir una url con nuestro Teams.

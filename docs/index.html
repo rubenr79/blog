@@ -36,7 +36,7 @@
 <meta property="og:description" content="The last theme you&#39;ll ever need. Maybe." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://rubenrm.com/" />
-<meta property="og:updated_time" content="2019-07-05T00:00:00+01:00" />
+<meta property="og:updated_time" content="2019-09-18T00:00:00+01:00" />
 <meta itemprop="name" content="Ananke: a Hugo Theme">
 <meta itemprop="description" content="The last theme you&#39;ll ever need. Maybe.">
 <meta name="twitter:card" content="summary"/>
@@ -165,21 +165,22 @@
           
         
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/" class="db grow">
-            <img src="https://rubenrm.com/images/MSTeams.png" class="img" alt="image from Como Crear Un Boton Para Compartir Con Teams Sin Javascript">
+          <a href="https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/" class="db grow">
+            <img src="https://rubenrm.com/images/MSTeams.png" class="img" alt="image from Sp O365 Saturday Barcelona 2019">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/" class="color-inherit dim link">
-            Como Crear Un Boton Para Compartir Con Teams Sin Javascript
+          <a href="https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/" class="color-inherit dim link">
+            Sp O365 Saturday Barcelona 2019
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          En el post anterior vimos como podemos crear un botón para compartir una url con Teams, para hacer esto se cargaba un fichero js que era el encargado de generar el enlace para compartir con Teams.
+          El pasado 14 de Septiembre tuve la suerte de poder participar en el SP &amp; O365 Saturday Barcelona. Un gran evento organizado por SUG.CAT.
+Este año tuve la gran suerte de participar junto a Juan Carlos Gonzalez en la sesión Teams y SharePoint Online, el Matrimonio Perfecto, donde hablamos de Microsoft Teams y SharePoint Online, de sus características y como ambas plataformas se complementan.
         </div>
-          <a href="https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+          <a href="https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
       </div>
     </div>
@@ -197,22 +198,23 @@
           
         
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/" class="db grow">
-            <img src="https://rubenrm.com/images/logos.png" class="img" alt="image from Introducción al desarrollo para Microsoft Teams">
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/" class="db grow">
+            <img src="https://rubenrm.com/images/MSTeams.png" class="img" alt="image from Powershell Obtener Todos Los Teams Y Sus Usuarios">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/" class="color-inherit dim link">
-            Introducción al desarrollo para Microsoft Teams
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/" class="color-inherit dim link">
+            Powershell Obtener Todos Los Teams Y Sus Usuarios
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Para extender Teams debemos crear una app de Teams. Una sola app puede proporcionar una o más funcionalidades dependiendo de nuestras necesidades.
-Las apps de Microsoft Teams son aplicaciones web, puedes usar cualquier tecnología de programación web y puedes alojarlas en cualquier plataforma de alojamiento.
+          Con este script de PowerShell obtendremos todos los Teams y sus usuarios, incluyendo usuarios invitados.
+Puedes verlo en mi repositorio de GitHub
+function Get-AllTeams { param([string]$token) $url = &#34;https://graph.microsoft.com/beta/groups?`$filter=resourceProvisioningOptions/Any(x:x eq &#39;Team&#39;)&#34; $response = Invoke-RestMethod -Uri $url -Headers @{Authorization = &#34;Bearer $token&#34;} $response.
         </div>
-          <a href="https://rubenrm.com/2019/introducci%C3%B3n-al-desarrollo-para-microsoft-teams/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
       </div>
     </div>
@@ -230,21 +232,23 @@ Las apps de Microsoft Teams son aplicaciones web, puedes usar cualquier tecnolog
           
         
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/" class="db grow">
-            <img src="https://rubenrm.com/images/O365DevBootcamp.png" class="img" alt="image from Global Office 365 Developer Bootcamp 2017">
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/" class="db grow">
+            <img src="https://rubenrm.com/images/MSTeams.png" class="img" alt="image from Powershell Obtener Todos Los Teams Sin Propietario">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/" class="color-inherit dim link">
-            Global Office 365 Developer Bootcamp 2017
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/" class="color-inherit dim link">
+            Powershell Obtener Todos Los Teams Sin Propietario
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          El 4 de noviembre se celebró en Madrid el Global Office 365 Developer Bootcamp, en el que tuve la gran suerte de participar como speaker. Este evento es una iniciativa a nivel global de Microsoft y el equipo de Office 365 y apoyado por las comunidades técnicas y MVPs.
+          Con este script de PowerShell obtendremos todos los Teams que no tiene ningún usuario asignado como propietario.
+Puedes verlo en mi repositorio de GitHub
+function Get-AllTeams { param([string]$token) $url = &#34;https://graph.
         </div>
-          <a href="https://rubenrm.com/2017/global-office-365-developer-bootcamp-2017/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+          <a href="https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
       </div>
     </div>
@@ -261,14 +265,26 @@ Las apps de Microsoft Teams son aplicaciones web, puedes usar cualquier tecnolog
         
         
           <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="https://rubenrm.com/2017/chapter-i-the-grand-hall/" class="link black dim">
-              Chapter I: The Grand Hall
+            <a href="https://rubenrm.com/2019/powershell-eliminar-todas-las-pestanas-wiki-vacias/" class="link black dim">
+              Powershell Eliminar Todas Las Pestanas Wiki Vacias
             </a>
           </h2>
         
           <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="https://rubenrm.com/2017/bienvenidos/" class="link black dim">
-              Bienvenidos
+            <a href="https://rubenrm.com/2019/powershell-obtener-un-inventario-de-teams-canales-y-pestanas/" class="link black dim">
+              Powershell Obtener Un Inventario De Teams Canales Y Pestanas
+            </a>
+          </h2>
+        
+          <h2 class="f5 fw4 mb4 dib mr3">
+            <a href="https://rubenrm.com/2019/como-trabajar-con-graph-api-desde-powershell/" class="link black dim">
+              Como Trabajar Con Graph Api Desde Powershell
+            </a>
+          </h2>
+        
+          <h2 class="f5 fw4 mb4 dib mr3">
+            <a href="https://rubenrm.com/2019/como-crear-un-marcador-en-chromium-para-compartir-una-url-con-teams/" class="link black dim">
+              Como Crear Un Marcador en Chromium Para Compartir Una Url Con Teams
             </a>
           </h2>
         

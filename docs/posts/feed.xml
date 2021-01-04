@@ -9,12 +9,178 @@
     <copyright>Copyright &amp;copy; 2021 - Ruben Ramos</copyright>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rubenrm.com/posts/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sp O365 Saturday Barcelona 2019</title>
+      <link>https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/sp-o365-saturday-barcelona-2019/</guid>
+      <description>El pasado 14 de Septiembre tuve la suerte de poder participar en el SP &amp;amp; O365 Saturday Barcelona. Un gran evento organizado por SUG.CAT.
+Este año tuve la gran suerte de participar junto a Juan Carlos Gonzalez en la sesión Teams y SharePoint Online, el Matrimonio Perfecto, donde hablamos de Microsoft Teams y SharePoint Online, de sus características y como ambas plataformas se complementan.</description>
+    </item>
+    
+    <item>
+      <title>Powershell Obtener Todos Los Teams Y Sus Usuarios</title>
+      <link>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-y-sus-usuarios/</guid>
+      <description>Con este script de PowerShell obtendremos todos los Teams y sus usuarios, incluyendo usuarios invitados.
+Puedes verlo en mi repositorio de GitHub
+function Get-AllTeams { param([string]$token) $url = &amp;#34;https://graph.microsoft.com/beta/groups?`$filter=resourceProvisioningOptions/Any(x:x eq &amp;#39;Team&amp;#39;)&amp;#34; $response = Invoke-RestMethod -Uri $url -Headers @{Authorization = &amp;#34;Bearer $token&amp;#34;} $response.</description>
+    </item>
+    
+    <item>
+      <title>Powershell Obtener Todos Los Teams Sin Propietario</title>
+      <link>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/powershell-obtener-todos-los-teams-sin-propietario/</guid>
+      <description>Con este script de PowerShell obtendremos todos los Teams que no tiene ningún usuario asignado como propietario.
+Puedes verlo en mi repositorio de GitHub
+function Get-AllTeams { param([string]$token) $url = &amp;#34;https://graph.</description>
+    </item>
+    
+    <item>
+      <title>Powershell Eliminar Todas Las Pestanas Wiki Vacias</title>
+      <link>https://rubenrm.com/2019/powershell-eliminar-todas-las-pestanas-wiki-vacias/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/powershell-eliminar-todas-las-pestanas-wiki-vacias/</guid>
+      <description>Lo reconozco, en Teams, soy más partidario de utilizar OneNote que de utilizar wikis. Con este script vamos a poder eliminar todas las pestañas wiki, que no tengan contenido de todo Teams.</description>
+    </item>
+    
+    <item>
+      <title>Powershell Obtener Un Inventario De Teams Canales Y Pestanas</title>
+      <link>https://rubenrm.com/2019/powershell-obtener-un-inventario-de-teams-canales-y-pestanas/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/powershell-obtener-un-inventario-de-teams-canales-y-pestanas/</guid>
+      <description>Con este script de PowerShell podemos obtener un inventario de todos los Teams, canales y pestañas que tenemos en nuestro tenant.
+Puedes verlo en mi repositorio de GitHub
+function Get-AllTeams { param([string]$token) $url = &amp;#34;https://graph.</description>
+    </item>
+    
+    <item>
+      <title>Como Trabajar Con Graph Api Desde Powershell</title>
+      <link>https://rubenrm.com/2019/como-trabajar-con-graph-api-desde-powershell/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-trabajar-con-graph-api-desde-powershell/</guid>
+      <description>Como hemos visto Graph API ofrece más posibilidades que el módulo de Teams para PowerShell a la hora de administrar Teams. Ahora bien, desde PowerShell también podemos hacer llamadas a Graph API y en este post vamos a ver cómo podemos hacerlo.</description>
+    </item>
+    
+    <item>
+      <title>Como Crear Un Marcador en Chromium Para Compartir Una Url Con Teams</title>
+      <link>https://rubenrm.com/2019/como-crear-un-marcador-en-chromium-para-compartir-una-url-con-teams/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-marcador-en-chromium-para-compartir-una-url-con-teams/</guid>
+      <description>Cada vez que veo un enlace interesante lo comparto en un canal de Teams con mi equipo. Lo que hacía es copiar la url, abrir la aplicación de Microsoft Teams y pegar la url en el canal que quería.</description>
+    </item>
+    
+    <item>
       <title>Como Crear Un Boton Para Compartir Con Teams Sin Javascript</title>
       <link>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/</link>
       <pubDate>Fri, 05 Jul 2019 00:00:00 +0100</pubDate>
       
       <guid>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams-sin-javascript/</guid>
       <description>En el post anterior vimos como podemos crear un botón para compartir una url con Teams, para hacer esto se cargaba un fichero js que era el encargado de generar el enlace para compartir con Teams.</description>
+    </item>
+    
+    <item>
+      <title>Como Crear Un Boton Para Compartir Con Teams</title>
+      <link>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-boton-para-compartir-con-teams/</guid>
+      <description>Recientemente Microsoft ha publicado la nueva funcionalidad Share to Teams, con la que fácilmente podemos añadir un enlace a nuestra página web para compartir una url con nuestro Teams.
+Añadiendo el botón para compartir con Teams Para poder hacer esto, lo primero que tenemos que hacer es incluir un fichero javascript que nos ofrece Teams</description>
+    </item>
+    
+    <item>
+      <title>Sharepoint Saturday Madrid 2019</title>
+      <link>https://rubenrm.com/2019/sharepoint-saturday-madrid-2019/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/sharepoint-saturday-madrid-2019/</guid>
+      <description>El pasado sábado 22 de Junio tuvo lugar en Madrid el SharePoint Saturday Madrid 2019, uno de los mayores eventos en España sobre SharePoint, Office 365 y Azure, organizado por SUGES, MadPoint, Comunidad Office 365 y SUG.</description>
+    </item>
+    
+    <item>
+      <title>Comparando Powershell Y Graph Para Administrar Teams</title>
+      <link>https://rubenrm.com/2019/comparando-powershell-y-graph-para-administrar-teams/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/comparando-powershell-y-graph-para-administrar-teams/</guid>
+      <description>Con el módulo de Teams para Powershell es bastante sencillo realizar operaciones de administración sobre Teams, pero por ahora, este número de operaciones es bastante limitada.
+En el siguiente cuadro vamos a ver una comparación entre las operaciones disponibles en Powershell y en Graph para administrar Teams.</description>
+    </item>
+    
+    <item>
+      <title>Como Crear Un Team Desde Una Plantilla Pnp</title>
+      <link>https://rubenrm.com/2019/como-crear-un-team-desde-una-plantilla-pnp/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-team-desde-una-plantilla-pnp/</guid>
+      <description>Desde la versión 2019-03 del esquema de aprovisionamiento de PnP es posible la creación de Teams.
+Para ver un ejemplo, creamos un xml llamado msteams-pnptemplate.xml y copiamos lo siguiente
+&amp;lt;?xml version=&amp;#34;1.</description>
+    </item>
+    
+    <item>
+      <title>Como Crear Un Team Con Microsoft Graph</title>
+      <link>https://rubenrm.com/2019/como-crear-un-team-con-microsoft-graph/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-team-con-microsoft-graph/</guid>
+      <description>En el post anterior vimos como podemos crear un Team con Powershell, en este vamos a ver como podemos hacer lo mismo utilizando Microsoft Graph. Por simplicidad, para hacer las llamadas a la API de Graph utilizaremos Graph Explorer.</description>
+    </item>
+    
+    <item>
+      <title>Como Crear Un Team Con Powershell</title>
+      <link>https://rubenrm.com/2019/como-crear-un-team-con-powershell/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/como-crear-un-team-con-powershell/</guid>
+      <description>Hay varias formas de crear Teams, en este post vamos a ver como crear un Team desde Powershell. Para ello vamos a utilizar el módulo Powershell para Teams, si no lo tienes instalado puedes hacerlo ejecutando</description>
+    </item>
+    
+    <item>
+      <title>Creando Tabs Para Teams Con Spfx</title>
+      <link>https://rubenrm.com/2019/creando-tabs-para-teams-con-spfx/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/creando-tabs-para-teams-con-spfx/</guid>
+      <description>Desde la versión 1.8 de SharePoint Framework se pueden implementar pestañas para Teams con SPFx. Con esto podemos conseguir 2 cosas:
+ Vamos a poder reutilizar nuestros desarrollos SPFx para utilizar tanto en SharePoint Online como en Teams Los desarrollos que hagamos con SharePoint Framework se hospedan automáticamente en SharePoint y no necesitaremos de servicios externos para hospedar nuestra aplicación.</description>
+    </item>
+    
+    <item>
+      <title>Creando La Primera Tab Para Teams Con Node Js en Visual Studio Code</title>
+      <link>https://rubenrm.com/2019/creando-la-primera-tab-para-teams-con-node-js-en-visual-studio-code/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/creando-la-primera-tab-para-teams-con-node-js-en-visual-studio-code/</guid>
+      <description>En este post vamos a ver como crear una tab para Teams con una aplicación Node.js desde Visual Studio Code. Para ello vamos a utilizar vamos a utilizar la plantilla de Yeoman para apps de Teams, si aún no la tienes instalado en su página de GitHub explican los pasos que tienes que seguir para instalarla, https://github.</description>
+    </item>
+    
+    <item>
+      <title>Exponiendo Tu Localhost a Internet Con Ngrok</title>
+      <link>https://rubenrm.com/2019/exponiendo-tu-localhost-a-internet-con-ngrok/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/exponiendo-tu-localhost-a-internet-con-ngrok/</guid>
+      <description>ngrok permite exponer a Internet un servidor web que se ejecuta en su equipo local. Para ello establece túneles seguros desde un endpoint público, como Internet, hasta un servicio de red que funciona localmente.</description>
+    </item>
+    
+    <item>
+      <title>Un Vistazo Al Teams App Package</title>
+      <link>https://rubenrm.com/2019/un-vistazo-al-teams-app-package/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://rubenrm.com/2019/un-vistazo-al-teams-app-package/</guid>
+      <description>Un vistazo al Teams app package Publicado en 9 enero, 2019 por Ruben Ramos Un paquete de una aplicación de Teams es un archivo.zip que contiene lo siguiente:
+ Un archivo de manifiesto llamado &amp;ldquo;manifest.</description>
     </item>
     
     <item>

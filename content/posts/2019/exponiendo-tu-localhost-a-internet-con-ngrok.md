@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 ngrok permite exponer a Internet un servidor web que se ejecuta en su equipo local. Para ello establece túneles seguros desde un endpoint público, como Internet, hasta un servicio de red que funciona localmente.

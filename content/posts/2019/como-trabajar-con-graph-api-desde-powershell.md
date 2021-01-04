@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Como hemos visto Graph API ofrece más posibilidades que el módulo de Teams para PowerShell a la hora de administrar Teams. Ahora bien, desde PowerShell también podemos hacer llamadas a Graph API y en este post vamos a ver cómo podemos hacerlo.

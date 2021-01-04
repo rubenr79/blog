@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Cada vez que veo un enlace interesante lo comparto en un canal de Teams con mi equipo. Lo que hacía es copiar la url, abrir la aplicación de Microsoft Teams y pegar la url en el canal que quería. Lo que vamos a ver en este post es como crear un marcador para compartir la url en la que estemos con un canal de Teams.

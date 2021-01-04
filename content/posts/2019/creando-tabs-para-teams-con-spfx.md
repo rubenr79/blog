@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 Desde la versión 1.8 de SharePoint Framework se pueden implementar pestañas para Teams con SPFx. Con esto podemos conseguir 2 cosas:
 

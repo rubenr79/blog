@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 El pasado sábado 22 de Junio tuvo lugar en Madrid el [SharePoint Saturday Madrid 2019](http://www.spsevents.org/city/madrid/madrid2019), uno de los mayores eventos en España sobre SharePoint, Office 365 y Azure, organizado por [SUGES](http://www.suges.es/Paginas/Home.aspx), [MadPoint](http://www.madpoint.net/), [Comunidad Office 365](http://www.comunidadoffice365.com/) y [SUG.CAT](http://www.sug.cat/). El evento fue todo un éxito, hubo un gran número de asistentes y la calidad de las sesiones fue enorme, tanto las sesiones de grandes MVPs como las de nuevo speakers.

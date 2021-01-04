@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 En este post vamos a ver como crear una tab para Teams con una aplicación Node.js desde Visual Studio Code. Para ello vamos a utilizar vamos a utilizar la plantilla de Yeoman para apps de Teams, si aún no la tienes instalado en su página de GitHub explican los pasos que tienes que seguir para instalarla, https://github.com/OfficeDev/generator-teams

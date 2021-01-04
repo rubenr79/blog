@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 Con este script de PowerShell obtendremos todos los Teams que no tiene ningún usuario asignado como propietario.

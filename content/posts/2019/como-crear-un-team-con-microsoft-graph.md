@@ -7,7 +7,7 @@ featured_image: "/images/MSTeams.png"
 categories:
 - 
 tags: []
-draft: true
+draft: false
 ---
 
 En el post anterior vimos como podemos crear un Team con Powershell, en este vamos a ver como podemos hacer lo mismo utilizando Microsoft Graph. Por simplicidad, para hacer las llamadas a la API de Graph utilizaremos Graph Explorer.
